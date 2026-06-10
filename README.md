@@ -544,9 +544,9 @@ This project is created for educational purposes as part of **Project 19 - Multi
 <div align="center">
 
 **Made with ⚙ by :
-Lujain Hesham
-Habiba Ahmed
-Haneen Khaled
+Lujain Hesham,
+Habiba Ahmed,
+Haneen Khaled &
 Sara Ayman**
 
 [Back to Top](#multi-algorithm-decision-engine)
